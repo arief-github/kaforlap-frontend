@@ -1,7 +1,9 @@
-import Login from "../view/pages/login"
+import LoginForm from "../view/pages/login";
+import RegisterForm from "../view/pages/register";
 
 const routes = {
-    '/': Login,
+    '/': LoginForm,
+    '/register': RegisterForm,
 }
 
 export default routes;

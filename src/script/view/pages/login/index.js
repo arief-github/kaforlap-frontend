@@ -1,4 +1,4 @@
-const Login = {
+const LoginForm = {
     async render() {
         return ` 
             <!-- Login form creation starts-->
@@ -30,4 +30,4 @@ const Login = {
     }
 }
 
-export default Login;
+export default LoginForm;
