@@ -7,11 +7,6 @@ const LoginForm = {
             <!-- Required meta tags -->
             <meta charset="utf-8">
             <meta name="viewport" content="width=device-width, initial-scale=1">
-        
-            <!-- Bootstrap CSS -->
-            <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-        
-            <title>Hello, world!</title>
           </head>
           <body>
         
@@ -53,7 +48,7 @@ const LoginForm = {
               
               
                                 <div class="d-flex justify-content-center mx-4 mb-3 mb-lg-4">
-                                   <a href="/"><button type="button" class="btn btn-primary btn-lg">Login</button></a> 
+                                   <a href="#/gudang"><button type="button" class="btn btn-primary btn-lg">Login</button></a> 
                                 </div>
                               
                                  <div class="form-footer">
