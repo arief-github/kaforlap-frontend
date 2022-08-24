@@ -8,8 +8,10 @@ export default class App {
     async renderPage() {
         const url = UrlParser.parseActiveUrlWithCombiner();
         const page = routes[url];
+        // untuk menjalankan render UI
         this._content.innerHTML = await page.render();
-        // await page.afterRender();
+        // untuk menjalankan interaktifitas UI
+        await page.afterRender();
     }
 }
 
