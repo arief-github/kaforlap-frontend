@@ -48,7 +48,7 @@ const LoginForm = {
               
               
                                 <div class="d-flex justify-content-center mx-4 mb-3 mb-lg-4">
-                                   <a href="#/gudang"><button type="button" class="btn btn-primary btn-lg">Login</button></a> 
+                                   <a href="#/personel"><button type="button" class="btn btn-primary btn-lg">Login</button></a> 
                                 </div>
                               
                                  <div class="form-footer">

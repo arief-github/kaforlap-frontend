@@ -1,6 +1,7 @@
 // import bootstrap (css and js)
 import 'bootstrap/dist/css/bootstrap.css';
-import 'bootstrap';
+import 'bootstrap/dist/js/bootstrap.bundle.min.js';
+
 import './style/style.css';
 
 import App from './script/view/App';
